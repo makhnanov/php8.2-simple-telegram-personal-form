@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+
+    php8.2-template:
+        build:
+            context: "./docker"
+        working_dir: "/application"
+        volumes:
+            - "./:/application"
+        ports:
+            - "44353:44353"
+        command: "php -S 0.0.0.0:44353 /application/src/server.php"
