@@ -1,7 +1,7 @@
 # Easy html form for send Telegram messages.
 
-![BRO Launcher](https://github.com/makhnanov/php8.2-simple-telegram-personal-form/blob/master/img/page.png?raw=true)
-![BRO Launcher](https://github.com/makhnanov/php8.2-simple-telegram-personal-form/blob/master/img/tg.png?raw=true)
+![Page](https://github.com/makhnanov/php8.2-simple-telegram-personal-form/blob/main/img/page.png?raw=true)
+![Telegram](https://github.com/makhnanov/php8.2-simple-telegram-personal-form/blob/main/img/tg.png?raw=true)
 
 ```shell
 git clone git clone https://github.com/makhnanov/php8.2-simple-telegram-personal-form.git && \
